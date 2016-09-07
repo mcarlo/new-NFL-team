@@ -3,9 +3,10 @@ Grades for each NFL franchise in 16 categories, to be used to pick a new favorit
 
 Key for categories:
 
-|  FRL   | Fan relations - Courtesy by players, coaches and front offices toward fans, and how well a team uses technology to reach them |
+| abbrev | category|
 |--------|-------------------------------------------------------------------------------------------------------------------------------|
-| abbrev | category                                                                                                                      |
+|  FRL   | Fan relations - Courtesy by players, coaches and front offices toward fans, and how well a team uses technology to reach them 
+|
 | OWN    | Ownership - Honesty; loyalty to core players and the community                                                                |
 | PLA    | Players - Effort on the field, likability off it                                                                              |
 | FUT    | Future wins - Projected wins over next 5 seasons                                                                              |
