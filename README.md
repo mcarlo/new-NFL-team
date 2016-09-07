@@ -3,10 +3,9 @@ Grades for each NFL franchise in 16 categories, to be used to pick a new favorit
 
 Key for categories:
 
-| abbrev | category|
+| abbrev |                                                           category                                                            |
 |--------|-------------------------------------------------------------------------------------------------------------------------------|
-|  FRL   | Fan relations - Courtesy by players, coaches and front offices toward fans, and how well a team uses technology to reach them 
-|
+| FRL    | Fan relations - Courtesy by players, coaches and front offices toward fans, and how well a team uses technology to reach them |
 | OWN    | Ownership - Honesty; loyalty to core players and the community                                                                |
 | PLA    | Players - Effort on the field, likability off it                                                                              |
 | FUT    | Future wins - Projected wins over next 5 seasons                                                                              |
@@ -22,6 +21,7 @@ Key for categories:
 | CCH    | Coaching - Strength of on-field leadership                                                                                    |
 | UNI    | Uniform - Stylishness of uniform design, according to Uni Watch's Paul Lukas                                                  |
 | BMK    | Big Market - Size of market in terms of population, where bigger is better                                                    |
+
 
 
 Should be used in conjunction with weights derived from a survey structured like this: http://www.allourideas.org/nflteampickingsample.
