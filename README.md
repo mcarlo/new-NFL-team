@@ -23,3 +23,5 @@ Key for categories:
 | UNI    | Uniform - Stylishness of uniform design, according to Uni Watch's Paul Lukas                                                  |
 | BMK    | Big Market - Size of market in terms of population, where bigger is better                                                    |
 +--------+-------------------------------------------------------------------------------------------------------------------------------+
+
+Should be used in conjunction with weights derived from a survey structured like this: http://www.allourideas.org/nflteampickingsample.
